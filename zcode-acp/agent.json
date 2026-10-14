@@ -21,6 +21,9 @@
         "sha256": "3cfa873dc148f20aab1832c77a0312a8ad8b31529a85e4d09fb26490b0687e62",
         "cmd": "./bin/zcode-acp"
       }
+    },
+    "uvx": {
+      "package": "zcode-acp==0.9.0"
     }
   }
 }
